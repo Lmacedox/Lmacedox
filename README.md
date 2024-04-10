@@ -12,8 +12,7 @@
  <li>👩‍💻 Software Enginner Cox Automotive</li>
  <li>🏆 Formação Ignite React JS 2023</li>
  <li>🎓 Formado em ADS na uniFecaf</li>
- <li>💻 Dev Front-end desde 2018</li>
- <li>🎓 Formada em Sistemas para Internet na Fiap</li>
+ <li>💻 Dev Front-end desde 2020</li>
  <li>🌐 Passionate about web development | 💡 Love a good challenge</li>
 </ul>
 
