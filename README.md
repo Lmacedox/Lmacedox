@@ -6,8 +6,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-lucasmacedo376@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasmacedo376@gmail.com)](mailto:lucasmacedo376@gmail.com)
 
 
-
 ## My name is Lucas Macedo
+<img align="right" alt="Code Girl image" src="./programmer.png"  width="500px"/> 
+
 #### (React JS | TypeScript | JavaScript | Node JS | Next JS | Javascript ) 🚀
 - 👩‍💻 Software Enginner Cox Automotive
 - 🏆 Formação Ignite React JS 2023
