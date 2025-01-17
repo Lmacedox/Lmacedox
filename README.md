@@ -9,7 +9,7 @@
 ##
 <ul>
  <li>React JS | TypeScript | JavaScript | Node JS | Next JS</li>
- <li>👩‍💻 Software Enginner Cox Automotive</li>
+ <li>👩‍💻 Software Enginner Stone Payments</li>
  <li>🏆 Formação Ignite React JS 2023</li>
  <li>🎓 Formado em ADS na uniFecaf</li>
  <li>💻 Dev Front-end desde 2020</li>
